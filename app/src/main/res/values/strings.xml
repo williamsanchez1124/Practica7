@@ -1,0 +1,54 @@
+<resources>
+    <string name="agregar">Agregar Peluchito</string>
+    <string name="app_name">Peluchitos.com</string>
+    <string name="buscar">Buscar Peluchito</string>
+    <string name="eliminar">Eliminar Peluchito</string>
+    <string name="actualizar">Actualizar Peluchito</string>
+    <string name="mostrar">Mostrar Inventario</string>
+    <string name="realizar">Realizar Venta</string>
+    <string name="ganancias">Mostrar Ganancias Totales</string>
+    <string name="title_activity_agregar">Agregar</string>
+
+    <string name="Agregar_peluche">Ingrese los siguientes datos del peluche</string>
+    <string name="Nombre_peluche">Nombre:</string>
+    <string name="id_peluche">ID:</string>
+    <string name="cantidad_peluche">Cantidad:</string>
+    <string name="valor_peluche">Precio:</string>
+    <string name="guardar_peluche">GUARDAR</string>
+    <string name="Entrada_agregar">AGREGANDO PELUCHITOS...</string>
+
+    <string name="Eliminar_peluche">Ingrese el nombre del peluchito a eliminar</string>
+    <string name="eliminar_peluche">ELIMINAR</string>
+    <string name="Entrada_eliminar">ELIMINANDO PELUCHITOS...</string>
+
+    <string name="Buscar_peluche">Ingrese el nombre del peluchito a Buscar</string>
+    <string name="buscar_peluche">BUSCAR</string>
+    <string name="Entrada_buscar">BUSCANDO PELUCHITOS...</string>
+
+    <string name="Actualizar_peluche">Ingrese el nombre del peluchito a actualizar</string>
+    <string name="actualizar_peluche">ACTUALIZAR</string>
+    <string name="Entrada_actualizar">ACTUALIZANDO PELUCHITOS...</string>
+
+    <string name="Vender_peluche">Ingrese los siguientes datos del peluchito a vender</string>
+    <string name="vender_peluche">REALIZAR VENTA</string>
+    <string name="cantidad_vender">Cantidad</string>
+    <string name="precio_unitario">Precio Unitario:</string>
+    <string name="precio_total">Precio Total:</string>
+    <string name="Entrada_vender">VENDIENDO PELUCHITOS...</string>
+
+    <string name="Ganancia_peluche">El total de las ganancias es:</string>
+    <string name="ganancia_peluche">OK</string>
+    <string name="Entrada_ganancias">GANANCIAS TOTALES</string>
+
+    <string name="Inventario_peluche">El inventario de peluchitos.com es:</string>
+    <string name="Entrada_inventario">INVENTARIO PELUCHITOS.COM</string>
+
+    <string name="verificar_agregado">Verifique por favor aqui que el peluche quede agregado.</string>
+
+    <string name="aviso_actualizar">LLene El SIguiente Campo A Actualizar</string>
+
+    <string name="borrar">Borrar Tabla ventas</string>
+
+    <string name="atras">ATRAS</string>
+
+</resources>
